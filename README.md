@@ -55,3 +55,7 @@ Used- Ubuntu 14.04 LTS - from Vagrantcloud - https://app.vagrantup.com/boxes/sea
 - https support
 
 - Azure and Openstack Support. 
+
+# Acknowledgements
+
+Dr. Evan Tzanis (twitter: @ippodameios) for his guidance. 
