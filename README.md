@@ -40,7 +40,7 @@ Used- Ubuntu 14.04 LTS - from Vagrantcloud - https://app.vagrantup.com/boxes/sea
 
 # Log files:
 
-/var/lib/tomcat7\logs\catalina.out
+/var/lib/tomcat7/logs/catalina.out
 
 
 
