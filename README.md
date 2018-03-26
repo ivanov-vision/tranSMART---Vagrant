@@ -2,9 +2,13 @@
 A vagrant based tranSMART instance.
 
 Installation
+
 git clone https://github.com/ivanov-vision/tranSMART.git
+
 cd ./tranSMART-master
+
 vagrant box update
+
 vagrant up
 
 # open a browser
