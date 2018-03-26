@@ -47,3 +47,11 @@ Used- Ubuntu 14.04 LTS - from Vagrantcloud - https://app.vagrantup.com/boxes/sea
 # Application folders:
 
 /var/lib/tomcat7/webapps/transmart.war
+
+# Future Work
+
+- data loaders such as: tMDataLoader and Kettle (https://wiki.transmartfoundation.org/display/transmartwiki/Data+Curators+and+Loaders)
+
+- https support
+
+- Azure and Openstack Support. 
