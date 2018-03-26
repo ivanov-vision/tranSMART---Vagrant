@@ -17,10 +17,14 @@ After installation is complete, allow couple of minutes for application build up
 
 Then
 
-# open a browser
-# http://127.0.0.1:8080/transmart
-# username = admin
-# password = admin
+open a browser
+
+http://127.0.0.1:8080/transmart
+
+username = admin
+
+password = admin
+
 
 
 # Prerequisites Versions:
@@ -33,9 +37,11 @@ Used- Ubuntu 14.04 LTS - from Vagrantcloud - https://app.vagrantup.com/boxes/sea
 
 
 
+
 # Log files:
 
 /var/lib/tomcat7\logs\catalina.out
+
 
 
 # Application folders:
