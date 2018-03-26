@@ -1,7 +1,7 @@
 # tranSMART
-A vagrant based tranSMART instance.
+# A vagrant based tranSMART instance.
 
-Installation
+# Installation
 
 git clone https://github.com/ivanov-vision/tranSMART.git
 
@@ -11,13 +11,19 @@ vagrant box update
 
 vagrant up
 
+Installation will take around 10 minutes depending on machine. 
+
+After installation is complete, allow couple of minutes for application build up.
+
+Then
+
 # open a browser
 # http://127.0.0.1:8080/transmart
 # username = admin
 # password = admin
 
 
-Prerequisites Versions:
+# Prerequisites Versions:
 
 Used - Vagrant 2.0.1 - from Vagrant - https://www.vagrantup.com/
 
@@ -27,11 +33,11 @@ Used- Ubuntu 14.04 LTS - from Vagrantcloud - https://app.vagrantup.com/boxes/sea
 
 
 
-Log files:
+# Log files:
 
 /var/lib/tomcat7\logs\catalina.out
 
 
-Application folders:
+# Application folders:
 
 /var/lib/tomcat7/webapps/transmart.war
